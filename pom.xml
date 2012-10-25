@@ -12,7 +12,7 @@
     <groupId>org.webjars</groupId>
     <artifactId>explorercanvas</artifactId>
     <name>ExplorerCanvas</name>
-    <version>r3</version>
+    <version>r4-SNAPSHOT</version>
     <description>WebJar for ExplorerCanvas</description>
     <url>http://webjars.org</url>
 
@@ -28,7 +28,7 @@
         <url>http://github.com/webjars/explorercanvas</url>
         <connection>scm:git:https://github.com/webjars/explorercanvas.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/explorercanvas.git</developerConnection>
-        <tag>explorercanvas-r3</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <developers>
